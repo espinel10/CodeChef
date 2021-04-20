@@ -5,4 +5,4 @@ Programming Competitive
 Each problem you can find in:
 https://codeforces.com/problemset
 
-<img src="https://storage.googleapis.com/kaggle-datasets-images/445/913/949f040bfb8ac14b4271103795b31797/dataset-original.png" width="600" height="400"> 
+<img src="https://avatars.githubusercontent.com/u/11960354?v=4" width="600" height="400"> 
